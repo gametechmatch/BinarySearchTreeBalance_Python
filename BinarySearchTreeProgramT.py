@@ -3,9 +3,6 @@
 #################################################################
 # Author: gametechmatch
 # Course: Data Structures
-# CH8 - Binary Trees
-# HW5 - WK5
-# Programming Project 8.1
 #################################################################
 # Code in fillTree.() and evaluateTree.() functions have code from:
 # Source Title: BinarySearchTreeClient.py
