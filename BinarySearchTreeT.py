@@ -13,9 +13,6 @@
 #################################################################
 # Author of Additional Methods: gametechmatch
 # Course: Data Structures
-# CH8 - Binary Trees
-# HW5 - WK5
-# Programming Project 8.1
 #################################################################
 # Implement binary search trees using Tree and Node classes.
 # Nodes contain a key and a value.
