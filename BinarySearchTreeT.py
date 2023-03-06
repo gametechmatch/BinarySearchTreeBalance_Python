@@ -71,11 +71,6 @@ class BinarySearchTree(object):
       # While there is a tree left to explore and current value
       # isn't the goal
       while (current and soughtValue != current.value):
-         #print(f"self: {self}")
-         #print(f"self.__root: {self.__root}")
-         #print(f"current: {current}")
-         #print(f"current.value: {current.value}")
-         #print(f"soughtValue: {soughtValue}")
 
          # Prepare to move one level down
          parent = current
